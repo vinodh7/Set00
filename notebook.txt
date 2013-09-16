@@ -1,0 +1,45 @@
+--------------------------------------------------------------------------------------------------------------
+Date	Who	Start	Stop	Interruptions	Question	TimeOnTask	Comments
+--------------------------------------------------------------------------------------------------------------
+09/13	Myself	0:50	2.30	30		01 to 10	2.10		Started with setting up laptop and went through the problems
+09/15 	Myself  0:00	2:00	40		01 to 10	1.20		Solved the problems and leant racket lang along
+09/15	Myself  12:00	2:30	15		01 to 10	2.15		Went through the problem again and added test cases for each problem
+
+
+Total Time On Task Q1 in minutes 		10
+TOTQ1 (hours and tenths)			0.1
+
+Total Time On Task Q2 in minutes 		10
+TOTQ2 (hours and tenths)			0.1
+
+Total Time On Task Q3 in minutes 		20
+TOTQ3 (hours and tenths)			0.2
+
+Total Time On Task Q4 in minutes		20 
+TOTQ4 (hours and tenths)			0.2
+
+Total Time On Task Q5 in minutes 		15
+TOTQ5 (hours and tenths)			0.2
+
+Total Time On Task Q6 in minutes		25 
+TOTQ6 (hours and tenths)			0.30
+
+Total Time On Task Q7 in minutes 		15
+TOTQ7 (hours and tenths)			0.20
+
+Total Time On Task Q8 in minutes 		15
+TOTQ9 (hours and tenths)			0.20
+
+Total Time On Task Q9 in minutes 		15
+TOTQ9 (hours and tenths)			0.20
+
+Total Time On Task Q10 in minutes 		30
+TOTQ10 (hours and tenths)			.30
+
+Total Time spent reading slides 		100
+Total Time (hours and tenths)			1.40
+
+Total Time spent on setting up laptop		90
+Total Time (hours and tenths)			1.30
+
+	

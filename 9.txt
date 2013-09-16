@@ -1,0 +1,9 @@
+remainder
+---------
+Usage: (remainder a b)
+Gives the remainder value when a is divided by b
+
+Example: (remainder 6 5) => 1
+
+The functioning of remainder is similar to modulo function for positive values, but it differs in case of negative numbers.
+The result of modulo is calculated as per the Eucledian division, whereas the result of remainder is calculated using plain division
